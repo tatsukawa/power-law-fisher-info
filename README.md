@@ -1,5 +1,9 @@
 # Energy-information trade-off makes the cortical critical power law the optimal coding
 
+## TODO
+
+- [ ] Add maximum likelihood estimation source code
+
 ## Setup
 
 ```sh
