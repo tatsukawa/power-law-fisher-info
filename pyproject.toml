@@ -5,7 +5,7 @@ dependencies = [
   "pandas>=2.2.3",
   "scipy>=1.15.3",
 ]
-description = "Add your description here"
+description = "Energy-information trade-off makes the cortical critical power law the optimal coding"
 name = "power-law-fisher-info"
 readme = "README.md"
 requires-python = ">=3.12"
